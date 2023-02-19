@@ -1,2 +1,2 @@
 
-timeOut:500
+timeOut:600
